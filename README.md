@@ -112,5 +112,7 @@
 예시)
 ![[Pasted image 20240828133955.png]](./image/Pasted%20image%2020240828133955.png)  
 
-Table Transformer
-Paddle OCR
+- 사용 모델
+Table Transformer : 테이블 이미지 추출  
+Paddle OCR : 테이블 텍스트 추출  
+cross encoder : 리랭커  
